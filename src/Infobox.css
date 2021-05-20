@@ -1,0 +1,9 @@
+.selected {
+    /* transform: scale(1.2); */
+    border-top: 10px solid lightblue;
+}
+
+.infobox {
+    cursor: pointer;
+    /* width: 100px; */
+}
